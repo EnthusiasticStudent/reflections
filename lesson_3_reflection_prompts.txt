@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	You are working on the most up to date system and merging takes less processing.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Without using github you could collaborate in several different ways. Keeping one up-to date copy is a way and sharing it among each other. That would prevent people from working on them simultaneously. Using dropbox is also an option. Merges are more difficult. Talking about who edits what is also a solution.
